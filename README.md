@@ -34,10 +34,10 @@ Here are some ideas to get you started:
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/sal0754/sal0754/output/github-contribution-grid-snake.svg"
   />
-  <img
+  <!-- <img
     alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/sal0754/sal0754/output/github-contribution-grid-snake.svg"
-  />
+  /> -->
 </picture>/sal0754/output/github-contribution-grid-snake.svg"
   />
 </picture>
